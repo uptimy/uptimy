@@ -74,6 +74,7 @@ Using one of these in production? [Follow it from your Uptimy workspace](https:/
 
 | | |
 |---|---|
+| **[Uptimy Agent](https://github.com/uptimy/agent)** | Open-source, self-hosted uptime monitoring with a status page. Runs inside your cluster or project and imports Uptime Kuma |
 | **[uptimyctl](https://github.com/uptimy/uptimyctl)** | Command-line tool for managing monitors, alert rules and status pages as code |
 | **[feedback](https://github.com/uptimy/feedback)** | Bug reports and feature requests |
 | **[Docs](https://www.upti.my/docs?utm_source=github&utm_medium=readme)** | Guides and reference |
