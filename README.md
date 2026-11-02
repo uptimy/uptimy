@@ -80,4 +80,4 @@ Using one of these in production? [Follow it from your Uptimy workspace](https:/
 | **[Docs](https://www.upti.my/docs?utm_source=github&utm_medium=readme)** | Guides and reference |
 | **[Status](https://status.upti.my/?utm_source=github&utm_medium=readme)** | Uptimy's own status page |
 
-Questions? [support@upti.my](mailto:support@upti.my)
+Questions? Ask in [Discord](https://www.upti.my/discord) or email [support@upti.my](mailto:support@upti.my).
