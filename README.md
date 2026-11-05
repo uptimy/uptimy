@@ -75,9 +75,10 @@ Using one of these in production? [Follow it from your Uptimy workspace](https:/
 | | |
 |---|---|
 | **[Uptimy Agent](https://github.com/uptimy/agent)** | Open-source, self-hosted uptime monitoring with a status page. Runs inside your cluster or project and imports Uptime Kuma |
-| **[uptimyctl](https://github.com/uptimy/uptimyctl)** | Command-line tool for managing monitors, alert rules and status pages as code |
+| **[uptimyctl](https://github.com/uptimy/uptimyctl)** | Uptimy from your terminal: monitors, cron jobs, incidents, status pages, alerts and reports, or a whole workspace as one file |
+| **[MCP server](https://github.com/uptimy/mcp)** | Uptimy in your AI assistant: ask what's down, run incidents and set up monitoring from Claude, ChatGPT or Cursor |
 | **[feedback](https://github.com/uptimy/feedback)** | Bug reports and feature requests |
 | **[Docs](https://www.upti.my/docs?utm_source=github&utm_medium=readme)** | Guides and reference |
 | **[Status](https://status.upti.my/?utm_source=github&utm_medium=readme)** | Uptimy's own status page |
 
-Questions? Ask in [Discord](https://www.upti.my/discord) or email [support@upti.my](mailto:support@upti.my).
+Questions? Ask in [Discord](https://www.upti.my/discord), in the **#help** forum. Account or billing: [support@upti.my](mailto:support@upti.my).
